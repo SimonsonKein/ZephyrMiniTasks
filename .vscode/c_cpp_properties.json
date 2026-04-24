@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Zephyr",
+            "intelliSenseMode": "linux-gcc-arm",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "includePath": [
+                "${default}",
+                "/Users/dmitrysufrai/Work/Akura/zephyrworkspace/zephyr/include",
+                "/Users/dmitrysufrai/Work/Akura/zephyrworkspace/zephyr/build/zephyr/include/generated"
+            ]
+        }
+    ],
+    "version": 4
+}

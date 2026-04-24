@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+    "C_Cpp.intelliSenseEngine": "default",
+    "cmake.ignoreCMakeListsMissing": true,
+    "cmake.configureOnOpen": false,
+    "cmake.enableAutomaticKitScan": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/nonexistent"
+}
